@@ -9,6 +9,6 @@
 </head>
 <body>
 <p class="text-success">You have been logged out!</p>
-<iframe src="login" style="height:500px;width:100%;" title="Login Page "></iframe>
+<%@ include file="Login.jsp" %>
 </body>
 </html>
